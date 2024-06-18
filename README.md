@@ -54,4 +54,4 @@ Submit your document and GitHub repository link through the designated platform 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
 ANSWERS/SUBMISSION TO THE ASSIGNMENT
 
- THE LINK ABOVE IS A REDIRECTION TO THE ASSIGNMENT DOCUMENTION. ATTACHED TO IT IS A LINK TO MY INITIALIZED GITHUB REPOSITORY
+https://docs.google.com/document/d/17CucNabKh2iCSujBYxEoNMyuZbPAyno6LXI_G0iIRjg/edit?usp=sharing THE LINK ABOVE IS A REDIRECTION TO THE ASSIGNMENT DOCUMENTION. ATTACHED TO IT IS A LINK TO MY INITIALIZED GITHUB REPOSITORY
